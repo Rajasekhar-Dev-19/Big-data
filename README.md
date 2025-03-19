@@ -3,6 +3,7 @@
 ```bash
 ## Initialize a Git repository (if not cloned)
 git init
+```
 
 ## Clone an existing repository
 git clone https://github.com/user_name/repo_name.git
