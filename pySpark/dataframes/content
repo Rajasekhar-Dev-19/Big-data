@@ -1,0 +1,25 @@
+Selecting Columns: Extracting specific columns from the DataFrame.
+Adding Columns: Creating new columns by performing computations or transformations on existing columns.
+Dropping Columns: Removing unnecessary columns from the DataFrame.
+Filter: Selecting rows from the DataFrame based on specified conditions.
+Grouping and Aggregating: Grouping rows based on certain criteria and computing aggregate statistics, such as sum, average, count, etc., within each group.
+Sorting: Arranging the rows of the DataFrame in a specified order based on column values.
+Joining: Combining two DataFrames based on a common key or condition.
+         1.Inner Join
+         2.Left Outer Join
+         3.Right Outer Join
+         4.Full Outer Join
+         5.Cross Join
+         6.Left Semi Join
+         7.Left Anti Join
+Union: Concatenating two DataFrames vertically, adding rows from one DataFrame to another.
+         1.union
+         2.unionAll
+         3.unionByName
+Pivoting and Melting: Reshaping the DataFrame from long to wide format (pivoting) or from wide to long format (melting).
+Window Functions: Performing calculations over a sliding window of rows, such as computing moving averages or ranking.
+
+--> select the columns from the data frame in different ways.
+--> add the new column/columns into a dataframe.
+--> rename the columns on dataframe.
+--> delete the columns whatever we want.

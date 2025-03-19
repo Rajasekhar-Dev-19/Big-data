@@ -1,0 +1,42 @@
+---Beginner---
+1) How many employees are there in each country ?
+2) How many employees are there in each department ?
+3) How many employees are there in each position ?
+4) How many employees are joined in each year ?
+5) How many employees are joined in each year and month ?
+6) Which year had the highest number of employees join ?
+7) Which year had the lowest number of employees join ?
+8) Get the top 10 highest salaries ?
+9) Get the top 10 lowest salaries ?
+10) Get the employees count by gender ?
+11) Find the employees whose names starts with a ?
+12) Find the employees whose names ends with a ?
+13) Calculate the total salary spent for each country ?
+14) Find Employees with Minimum Salary in Each Department ?
+15) List all employees from India who are Managers ?
+---Intermediate---
+1) Get the highest salary from Country wise ?
+2) Get the highest salary from Department wise ?
+3) Get the highest salary from Position wise ?
+4) Get the 5th highest salary from country wise ?
+5) Get the 3rd lowest salary from Department wise ?
+6) Get the 7th Highest salary from Country, Department and Position ?
+7) Retrieve employees whose salary is above the average salary of all employees ?
+8) Show employees who work in the same country but different departments ?
+9) Identify the youngest Manager in the dataset?
+10) Find the Top 3 Highest-Earning Departments Globally ?
+---Advanced---
+1) Find Employees with the Age between 25 to 45 ?
+2) count the number of employees in different age groups ?
+3) Identify employees whose salary is more than 20% higher than the average salary of their gender?
+4) Find Employees Older than Their Colleagues ?
+5) Find employees earning below the department's average salary ?
+6)Find Employees Who Earn Above Their Department’s Average Salary ?
+7) Find the employees who have been in the company the longest ?
+8) Generate Employee Tenure in Years ?
+9) Find the Managerial Gender Diversity Ratio ?
+10) Find Yearly New Hires by Role ?
+11) Detect the Most Common Role in Each Country ?
+12) Calculate the cumulative salary for each employee within their department, ordered by joining date ?
+
+

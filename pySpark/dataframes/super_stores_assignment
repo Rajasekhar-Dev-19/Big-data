@@ -1,0 +1,31 @@
+--> need to achieve bellow requirements in Dataframes and SparkSQL
+1.What are the total sales of each region ?
+2.How many quantities sold in each region ?
+3.What are the total sales in each state ?
+4.which region did we achieve the highest sales?
+5.which region and state did we achieve the highest sales?
+6.which region, state and city did we achieve the highest sales?
+7.Bring the top 10 customers who have purchased the most items ?
+8.Bring the top 3 customers who have purchased the most items region-wise?
+9.Bring the top 3 customers who have purchased the most items region, state-wise?
+10.Bring the top 3 customers who have purchased the most items region, state and city-wise?
+11.Which ship method most of the people have used ?
+12.Which category items sold most ?
+13.Which category items sold most in region-wise ?
+14.Which category items sold most in region, country-wise ?
+15.Which category items sold most in region, country and region-wise ?
+16.Which sub-category items sold most ?
+17.Which sub-category items sold most in region-wise ?
+18.Which sub-category items sold most in region, country-wise ?
+19.Which sub-category items sold most in region, country and region-wise ?
+20.On which item we got more profit ?
+21.Get the top 3 most profit category items ?
+22.Get the top 3 most loss category items ?
+23.Get the region-wise profit as well as loss ?
+24.On which item we put highest discount ?
+25.On which item we put lowest discount ?
+26.On which items we didn't put discount ?
+27.Get the top 10 highest discount items ?
+28.Get the top 10 lowest discount items ?
+29.On Which date we got highest orders ?
+30. On which date we got lowest orders ?
